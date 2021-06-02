@@ -1,7 +1,7 @@
 # 4 Chinese NLI datasets
 
 This folder contains the data files for the 4 Chinese NLI datasets we created for the paper:
-_Understanding Transfer Learning of Multilingual Pre-trained LanguageModels through Chinese Natural Language Inference_.
+_Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference_.
 
 1. Chinese HANS
 2. Chinese stress tests
