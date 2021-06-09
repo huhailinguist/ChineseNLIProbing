@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This folder contains data and code for the paper **Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference**, where we examine the cross-lingual transfer learning in [XLM-R](https://arxiv.org/abs/1911.02116) via 4 categories of newly constructed NLI datasets:
+This folder contains data and code for the paper [**Investigating Transfer Learning in Multilingual Pre-trained Language Models through Chinese Natural Language Inference**](https://arxiv.org/abs/2106.03983), where we examine the cross-lingual transfer learning in [XLM-R](https://arxiv.org/abs/1911.02116) via 4 categories of newly constructed NLI datasets:
 
 - Chinese HANS
 - Chinese stress tests
